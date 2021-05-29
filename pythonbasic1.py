@@ -71,7 +71,7 @@ print("d:h:m:s-> %d:%d:%d:%d" % (day, hour, minutes, seconds))
 # 91. Write a Python program to swap two variables. Function name "swap2Vars"
 ex: x = 5, y = 4
 out: x = 4, y = 5
-x = 5
+x = 6
 y = 4
 x, y = y, x
 print(x)
